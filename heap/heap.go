@@ -9,4 +9,7 @@ type Heap interface {
 	Push(int)
 	// Len return the length of heap.
 	Len() int
+
+	siftUp(index int)
+	siftDown(index int)
 }
