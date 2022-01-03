@@ -1,5 +1,7 @@
 # skiplist
 
+https://en.wikipedia.org/wiki/Skip_list
+
 Skiplist is a data struct that supports the following operations:
 - Insert: O(logn) avg, O(n) worst case
 - Search: O(logn) avg, O(n) worst case
